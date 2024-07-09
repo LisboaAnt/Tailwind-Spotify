@@ -1,2 +1,2 @@
 # Tailwind Spotify
-- Learning tailwind when rebuilding the Spotify interface
+- Learning tailwind when rebuilding the Spotify interface.
